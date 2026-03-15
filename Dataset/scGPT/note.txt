@@ -1,0 +1,5 @@
+Download three files from scGPT to here
+Specificially: 
+  -args.json
+  -best_model.pt
+  -vocab.json
