@@ -1,0 +1,21 @@
+args:
+  data_name: sciplex3
+  pert_type: molecular
+
+  threshold: 0.3
+  threshold_co: 0.3
+  gene_num: 2000
+
+  source_model_trainable: True
+  source_model: False
+
+  batch_size: 32
+
+  lr_anneal_steps: 60000
+  log_interval: 10000
+  save_interval: 10000
+
+  predict_xstart: True
+
+main:
+  epoch: 2
