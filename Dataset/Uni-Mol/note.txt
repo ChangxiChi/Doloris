@@ -1,0 +1,4 @@
+Download two files from Uni-Mol to here
+Specificially: 
+  -mol_pre_all_h_220816.pt
+  -mol.dict.txt

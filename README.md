@@ -44,3 +44,5 @@ python main_mask_model.py --config config/adamson/adamson_mask.yaml
 ```bash
 python test.py --config config/adamson/adamson_test.yaml
 ```
+
+![](./image/poster.png)
